@@ -74,6 +74,10 @@ current_projects_at_github = {
 **AI-powered Bitcoin price direction prediction system**  
 `Python` `LightGBM` `React` `FastAPI` `Sentiment Analysis`
 
+### 💧 [Algua](https://github.com/alexquilis1/algua)
+**AI-powered water quality analysis assistant with RAG**  
+`Python` `LangChain` `WatsonX.ai` `IBM` `RAG` `AI Agent`
+
 ### 📱 [Digital Bullet Journal](https://github.com/alexquilis1/bullet-journal-android)
 **Feature-rich Android journaling app with photo support**  
 `Kotlin` `Room Database` `MVVM` `Material Design`
