@@ -18,6 +18,7 @@
 - 🔬 **Research Focus**: ML models, sentiment analysis, and AI-powered prediction systems  
 - 💼 **Industry Experience**: Building production-ready AI solutions and LLM applications
 
+```python
 current_projects_at_github = {
     "🪙 Bitcoin Predictor": "LightGBM + sentiment analysis (57.8% ROC-AUC)",
     "💧 Algua": "AI water quality assistant with LangChain, WatsonX.ai & RAG",
@@ -25,6 +26,7 @@ current_projects_at_github = {
     "📊 Data Analytics": "Real-time analysis with R and interactive visualizations",
     "📰 NLP Projects": "Sentiment analysis and text processing applications"
 }
+```
 
 ## 🛠️ Tech Stack
 
